@@ -1,2 +1,2 @@
-.ipynb_checkpoints/
+data_files/radon_bedrock.shp
 .readme/
