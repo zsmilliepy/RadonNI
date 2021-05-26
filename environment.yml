@@ -1,4 +1,4 @@
-name: egm722
+name: RadonNI
 channels:
   - conda-forge
   - defaults
